@@ -56,5 +56,11 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-1f77b4?style=for-the-badge&logo=data&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-ff7f0e?style=for-the-badge&logo=dataviewer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Modelling-2ca02c?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Business%20Analytics-d62728?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
+
 
