@@ -1,8 +1,8 @@
 <!-- Banner Image -->
 <img src="https://github.com/ranvijay880/ranvijay880/assets/YOUR-BANNER-IMAGE-ID" alt="Banner" style="width:100%;"/>
 
-<h1 align="center">Hi 👋, I'm Ran Vijay</h1>
-<h3 align="center">Computer Science Engineer | Android & AI Enthusiast | YouTuber</h3>
+<h1 align="center">Hi 👋, I'm Ran Ayub Moiz Khan</h1>
+<h3 align="center">Computer Science Engineer | Data Science Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ranvijay880&label=Profile%20views&color=0e75b6&style=flat" alt="ranvijay880" />
@@ -12,17 +12,17 @@
 
 ### 👨‍💻 About Me
 
-🎓 Pre-Final Year Student at **Lovely Professional University**  
-📍 Based in **Phagwara, Punjab**  
-📱 Passionate about **Android Development, AI & ML**  
+🎓 Pre-Final Year Student at **Jain University**  
+📍 Based in **Bangalore, Karnataka**  
+📱 Passionate about **Data Science and Analytics, AI & ML**  
 💡 Constantly learning, building, and collaborating  
-📬 Reach me: [pk7547839186@gmail.com](mailto:pk7547839186@gmail.com)  
-🎥 Fun Fact: I [create YouTube videos](https://www.youtube.com/channel/UCP8QY-ldvguc5Rjf0OoQvqg)
+📬 Reach me: [muizkhan49@gmail.com](mailto:muizkhan49@gmail.com)  
+
 
 ---
 
 ### 🧠 Interests
-- 📲 Android Development
+- 📲 Data Science and Analytics
 - 🤖 Artificial Intelligence
 - 🧮 Machine Learning
 - 💻 Open Source Contributions
@@ -38,9 +38,6 @@
   </a>
   <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCP8QY-ldvguc5Rjf0OoQvqg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
