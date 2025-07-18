@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <img src="https://github.com/ranvijay880/ranvijay880/assets/YOUR-BANNER-IMAGE-ID" alt="Banner" style="width:100%;"/>
 
-<h1 align="center">Hi 👋, I'm Ran Ayub Moiz Khan</h1>
+<h1 align="center">Hi 👋, I'm Ayub Moiz Khan</h1>
 <h3 align="center">Computer Science Engineer | Data Science Enthusiast </h3>
 
 <p align="center">
