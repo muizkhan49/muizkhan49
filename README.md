@@ -9,6 +9,7 @@
 
 ### 👨‍💻 About Me
 
+   Graduate Engineer trainee at HCLtech From 08/2024 - Present
 🎓 Pre-Final Year Student at **Jain University**  
 📍 Based in **Bangalore, Karnataka**  
 📱 Passionate about **Data Science and Analytics, AI & ML**  
