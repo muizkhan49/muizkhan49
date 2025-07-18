@@ -4,9 +4,8 @@
 <h1 align="center">Hi 👋, I'm Ayub Moiz Khan</h1>
 <h3 align="center">Computer Science Engineer | Data Science Enthusiast </h3>
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-🚀 Welcome to Ayub Moiz Khan's GitHub | Data Science • Machine Learning • Analytics • Python Enthusiast • What about you? •  Let's Connect
-</marquee>
+<img src="https://www.canva.com/design/DAGtjePplZQ/A2wOwQT03RiGk8GOkJ-koQ/edit?utm_content=DAGtjePplZQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Scrolling Banner"/>
+
 
 ---
 
