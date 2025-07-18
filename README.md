@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ayub Moiz Khan</h1>
 <h3 align="center">Computer Science Engineer | Data Science Enthusiast </h3>
 
-<img src="https://www.canva.com/design/DAGtjePplZQ/A2wOwQT03RiGk8GOkJ-koQ/edit?utm_content=DAGtjePplZQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Scrolling Banner"/>
+<img src="https://github.com/muizkhan49/files/blob/main/Your%20paragraph%20text.gif" alt="Scrolling Banner"/>
 
 
 ---
