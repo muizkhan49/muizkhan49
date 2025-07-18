@@ -36,18 +36,9 @@
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/YOUR-INSTAGRAM" target="https://www.linkedin.com/in/amkcom/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranvijay880&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranvijay880&theme=tokyonight" />
 </p>
 
 ---
