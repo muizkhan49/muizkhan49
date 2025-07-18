@@ -1,12 +1,9 @@
 <!-- Banner Image -->
-<img src="https://github.com/ranvijay880/ranvijay880/assets/YOUR-BANNER-IMAGE-ID" alt="Banner" style="width:100%;"/>
+<img src="M.png" alt="Banner" style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm Ayub Moiz Khan</h1>
 <h3 align="center">Computer Science Engineer | Data Science Enthusiast </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranvijay880&label=Profile%20views&color=0e75b6&style=flat" alt="ranvijay880" />
-</p>
 
 ---
 
