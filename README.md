@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="M.png" alt="Banner" style="width:100%;"/>
+<img src="https://github.com/muizkhan49/files/blob/main/M.png" alt="Banner" style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm Ayub Moiz Khan</h1>
 <h3 align="center">Computer Science Engineer | Data Science Enthusiast </h3>
